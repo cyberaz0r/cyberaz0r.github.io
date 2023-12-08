@@ -20,6 +20,7 @@ tags:
 **CVSSv3.1 Score:** 7.2 (High)
 **CVSSv3.1 Attack Vector:** AV:N/AC:L/PR:H/UI:N/S:U/C:H/I:H/A:H
 **Discoverer:** Michele 'cyberaz0r' Di Bonaventura
+**Exploit:** [GitHub](https://raw.githubusercontent.com/cyberaz0r/GL.iNet-Multiple-Vulnerabilities/main/CVE-2023-46454.py)
 
 ## Executive Summary
 In GL.iNET GL-AR300M routers with firmware v4.3.7, it is possible to inject arbitrary shell commands through a crafted package name in the package information functionality.
@@ -36,6 +37,7 @@ Update GL.iNet GL-AR300M router firmware to the latest version.
 **CVSSv3.1 Score:** 7.2 (High)
 **CVSSv3.1 Attack Vector:** AV:N/AC:L/PR:H/UI:N/S:U/C:H/I:H/A:H
 **Discoverer:** Michele 'cyberaz0r' Di Bonaventura
+**Exploit:** [GitHub](https://raw.githubusercontent.com/cyberaz0r/GL.iNet-Multiple-Vulnerabilities/main/CVE-2023-46455.py)
 
 ## Executive Summary
 In GL.iNET GL-AR300M routers with firmware v4.3.7, it is possible to write arbitrary files through a path traversal attack in the OpenVPN client file upload functionality.
@@ -52,6 +54,7 @@ Update GL.iNet GL-AR300M router firmware to the latest version.
 **CVSSv3.1 Score:** 7.2 (High)
 **CVSSv3.1 Attack Vector:** AV:N/AC:L/PR:H/UI:N/S:U/C:H/I:H/A:H
 **Discoverer:** Michele 'cyberaz0r' Di Bonaventura
+**Exploit:** [GitHub](https://raw.githubusercontent.com/cyberaz0r/GL.iNet-Multiple-Vulnerabilities/main/CVE-2023-46456.py)
 
 ## Executive Summary
 In GL.iNET GL-AR300M routers with firmware v3.216, it is possible to inject arbitrary shell commands through the OpenVPN client file upload functionality.
