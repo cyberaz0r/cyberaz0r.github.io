@@ -14,4 +14,4 @@ Web Security Researcher by night
 
 In love with Web (In)Security
 
-[<button class="btn" style="background-color:#666666; color:#DDDDDD">✉ Contact me</button>](mailto:cyberaz0r@protonmail.com) [<button class="btn" style="background-color:#666666; color:#DDDDDD">⬇ Download my resume</button>](/assets/pdf/CV_ENG.pdf)
+[<button class="btn" style="background-color:#666666; color:#DDDDDD">✉ Contact me</button>](mailto:cyberaz0r@protonmail.com) [<button class="btn" style="background-color:#666666; color:#DDDDDD">⬇ Download my resume</button>](/assets/pdf/Michele_DiBonaventura_resume.pdf)
